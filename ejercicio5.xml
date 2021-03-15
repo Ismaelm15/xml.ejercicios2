@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<libro_arbol>
+
+<arbol>
+<nombre_lat><nombre_lat>
+<nombre>Arce de Montpellier o Arce menor /nombre>
+<vegetacion>Caducifolio</vegetacion>
+<altura>Minimo 6m, maximo 10m</altura>
+<forma>Copa esférica</forma>
+<estructura ramaje="colgante">Tronco principal recto con bifurcaciones</estructura>
+<color_primavera>Haz verde brillante, envés verde blanquecino</color_primavera>
+<color_otoño></color_otoño>
+<resist_frio temp_min="-15" temp="celsius">Heladas fuerte</resist_frio>
+</arbol>
+
+<arbol>
+<nombre_lat>Olea europea<nombre_lat>
+<nombre>Olivo</nombre>
+<vegetacion>Perenne</vegetacion>
+<altura>Minimo 8m, maximo 15m</altura>
+<forma> Copa irregular</forma>
+<estructura>Tronco principal irregular con bifurcaciones</estructura>
+<color_primavera></color_primavera>
+<color_otoño></color_otoño>
+<resist_frio></resist_frio>
+</arbol>
+
+<arbol>
+<nombre_lat>Ramaje tortuoso <nombre_lat>
+<nombre></nombre>
+<vegetacion></vegetacion>
+<altura></altura>
+<forma></forma>
+<estructura></estructura>
+<color_primavera>Haz verde oscuro, envés verde plateado</color_primavera>
+<color_otoño></color_otoño>
+<resist_frio temp_min="-10" temp="celsius">Heladas medias</resist_frio>
+</arbol>
+
+<arbol>
+<nombre_lat>Platanus orientalis<nombre_lat>
+<nombre>Plátano</nombre>
+<vegetacion>Caducifolio</vegetacion>
+<altura>Minimo 20m, maximo 25m</altura>
+<forma> Copa ovoida</forma>
+<estructura ramaje="Ramaje expandido">Tronco principal recto.</estructura>
+<color_primavera>Haz verde medio, envés verde claro</color_primavera>
+<color_otoño>Ocre</color_otoño>
+<resist_frio temp_min="-20" temp="celsius">Heladas fuertes</resist_frio>
+</arbol>
+
+<arbol>
+<nombre_lat>Quercus ilex<nombre_lat>
+<nombre>Encina</nombre>
+<vegetacion>Perenne</vegetacion>
+<altura>En torno a 25 metros</altura>
+<forma>Copa esférica o elíptica irregula</forma>
+<estructura ramaje="tortuoso">Tronco principal recto</estructura>
+<color_primavera>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</color_primavera>
+<color_otoño></color_otoño>
+<resist_frio temp_min="-15" temp="celsius">Heladasa fuertes</resist_frio>
+</arbol>
+</libro_arbol>
+
