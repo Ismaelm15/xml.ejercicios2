@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipos>
+	<equipo>
+		<nombre>Málaga C.F.</nombre>
+		<ciudad>Málaga</ciudad>
+		<entrenador/>
+		<jugadores>
+			<jugador pos="delantero">
+				<nombre>Josua Antonio Mejías García</nombre>
+				<nacionalidad>Marroqui</nacionalidad>
+			</jugador>
+			<jugador pos="centrocampista">
+				<nombre>Jairo Samperio Bustara</nombre>
+				<nacionalidad>Española</nacionalidad>
+			</jugador>
+		</jugadores>
+	</equipo>
+
+	<equipo>
+		<nombre>Sevilla F.C</nombre>
+		<ciudad>Sevilla</ciudad>
+		<entrenador/>
+		<jugadores>
+			<jugador pos="portero">
+				<nombre>Yassine Bounou</nombre>
+				<nacionalidad>Española</nacionalidad>
+			</jugador>
+			<jugador pos="centrocampista">
+				<nombre>Sergi Gómez Solà</nombre>
+				<nacionalidad>Española</nacionalidad>
+			</jugador>
+		</jugadores>
+	</equipo>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<factura>
+	<nfactura> 999 </nfactura>
+	<nombre> Equipos Digitales S.L. </nombre>
+	<direccion>Av. Valladolid Madrid 28015</direccion>
+	<cif>Q-9876543</cif>
+	<telefono>91.777.66.88</telefono>
+	<fax>91.777.66.99</fax>
+
+	<datos_factura>
+		<fecha>12-01-2005</fecha>
+		<npedido>731</npedido>
+		<forma_pago>Efectivo</forma_pago>
+	</datos_factura>
+
+	<datos_cliente>
+		<n_cliente>879</n_cliente>
+		<nombre_cliente>Darío Bueno Gutiérrez</nombre_cliente>
+		<direccion_envio>Av. Oporto nº7 4ºd</direccion_envio>
+		<poblacion>Madrid</poblacion>
+		<cod_postal>28043</cod_postal>
+		<provincia>Madrid</provincia>
+	</datos_cliente>
+
+	<productos>
+		<partes>
+			<referencia>MII93000F/8</referencia>
+			<nombre_parte>MICRO PENTIUM IV 3000MHZ FB800</nombre_parte>
+			<cantidad>1</cantidad>
+			<precio moneda="Euro">230</precio>
+			<iva multiplicador="0.16"></iva>
+			<importe>266.80</importe>
+		</partes>
+
+		<partes>
+			<referencia>MB8QDIP4</referencia>
+			<nombre_parte>PLACA BASE QDI P4</nombre_parte>
+			<cantidad>1</cantidad>
+			<precio moneda="Euro">180</precio>
+			<iva multiplicador="0.16"></iva>
+			<importe>208.80</importe>
+		</partes>
+
+		<partes>
+			<referencia>MII93000F/8</referencia>
+			<nombre_parte>DIMM DDR 512MB 3200</nombre_parte>
+			<cantidad>2</cantidad>
+			<precio moneda="Euro">40</precio>
+			<iva multiplicador="0.16"></iva>
+			<importe>92.80</importe>
+		</partes>
+
+		<partes>
+			<referencia>MII93000F/8</referencia>
+			<nombre_parte>DISCO DURO 250GB S-ATA 7200</nombre_parte>
+			<cantidad>4</cantidad>
+			<precio moneda="Euro">120</precio>
+			<iva multiplicador="0.16"></iva>
+			<importe>556.80</importe>
+		</partes>
+		<base monede="Euro">970</base>
+		<iva multiplicador="0.16"></iva>
+		<cuota_iva>155.20</cuota_iva>
+	</productos>
+
+	<total moneda="Euro">1125.20</total>
+</factura>
